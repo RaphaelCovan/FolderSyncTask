@@ -1,0 +1,3 @@
+13/12/2024 17:56:34: A replica folder of 'C:\Users\rapha\Desktop\Teste5' was just created at 'C:\Users\rapha\Desktop\Teste5 replica'.
+13/12/2024 17:56:35: The files from: 'C:\Users\rapha\Desktop\Teste5' were copied to: 'C:\Users\rapha\Desktop\Teste5 replica'.
+13/12/2024 18:07:10: A replica folder of 'C:\Users\rapha\Desktop' was just created at 'asdfuh'.

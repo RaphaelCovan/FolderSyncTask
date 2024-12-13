@@ -1,0 +1,14 @@
+C:\Users\rapha\source\repos\VeeamTask\bin\Debug\net8.0\VeeamTask.exe
+C:\Users\rapha\source\repos\VeeamTask\bin\Debug\net8.0\VeeamTask.deps.json
+C:\Users\rapha\source\repos\VeeamTask\bin\Debug\net8.0\VeeamTask.runtimeconfig.json
+C:\Users\rapha\source\repos\VeeamTask\bin\Debug\net8.0\VeeamTask.dll
+C:\Users\rapha\source\repos\VeeamTask\bin\Debug\net8.0\VeeamTask.pdb
+C:\Users\rapha\source\repos\VeeamTask\obj\Debug\net8.0\VeeamTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rapha\source\repos\VeeamTask\obj\Debug\net8.0\VeeamTask.AssemblyInfoInputs.cache
+C:\Users\rapha\source\repos\VeeamTask\obj\Debug\net8.0\VeeamTask.AssemblyInfo.cs
+C:\Users\rapha\source\repos\VeeamTask\obj\Debug\net8.0\VeeamTask.csproj.CoreCompileInputs.cache
+C:\Users\rapha\source\repos\VeeamTask\obj\Debug\net8.0\VeeamTask.dll
+C:\Users\rapha\source\repos\VeeamTask\obj\Debug\net8.0\refint\VeeamTask.dll
+C:\Users\rapha\source\repos\VeeamTask\obj\Debug\net8.0\VeeamTask.pdb
+C:\Users\rapha\source\repos\VeeamTask\obj\Debug\net8.0\VeeamTask.genruntimeconfig.cache
+C:\Users\rapha\source\repos\VeeamTask\obj\Debug\net8.0\ref\VeeamTask.dll
